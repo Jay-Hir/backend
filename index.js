@@ -13,7 +13,7 @@ const app = express();
 
 
 app.use(cors({
-    origin: "http://localhost:5173",
+    origin: "https://lightsalmon-okapi-456465.hostingersite.com",
     credentials: true
 }));
 
